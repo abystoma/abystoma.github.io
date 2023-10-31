@@ -1,0 +1,8 @@
+@misc{shahir2023connected,
+      title={Connected Hidden Neurons (CHNNet): An Artificial Neural Network for Rapid Convergence}, 
+      author={Rafiad Sadat Shahir and Zayed Humayun and Mashrufa Akter Tamim and Shouri Saha and Md. Golam Rabiul Alam},
+      year={2023},
+      eprint={2305.10468},
+      archivePrefix={arXiv},
+      primaryClass={cs.NE}
+}
